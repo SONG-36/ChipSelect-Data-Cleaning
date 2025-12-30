@@ -1,0 +1,1 @@
+A data cleaning and structuring pipeline that transforms raw MCU datasheets into a reliable, structured specification dataset for downstream decision systems.
