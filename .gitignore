@@ -1,0 +1,10 @@
+# data artifacts
+data/raw/*
+data/processed/*
+!data/raw/README.md
+!data/processed/README.md
+
+# python
+__pycache__/
+*.pyc
+.venv/
