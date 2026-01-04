@@ -3,9 +3,18 @@ data/raw/*
 data/processed/*
 !data/raw/README.md
 !data/processed/README.md
+data/raw_sku/
+data/interim/
+data/processed/
+data/candidates/
 
 # python
 __pycache__/
 *.pyc
 .venv/
+
+# Generated text
+*.txt
+
+# System
 .DS_Store
